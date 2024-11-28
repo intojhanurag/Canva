@@ -10,10 +10,8 @@ The Canva project uses **AI** to automate and optimize design workflows, making 
 
 ### Key Features:
 - 📊 **User-Friendly Interface:** A simple, intuitive interface for easy design creation.
-- 🎯 **AI-Powered Suggestions:** Get recommendations based on your content.
 - 📐 **Design Customization:** Customize designs with endless possibilities.
 - 🌈 **Diverse Templates:** Access to a variety of templates for every occasion.
-- 🌍 **Cross-Platform Availability:** Accessible on both web and mobile platforms.
 
 ---
 
@@ -23,8 +21,6 @@ This project uses a range of powerful tools to build an AI-driven design tool:
 
 - **Python**: For implementing the core AI models and backend functionality.
 - **TensorFlow**: For deep learning models that power intelligent design features.
-- **Flask**: To serve the application and interact with users through APIs.
-- **HTML, CSS, JavaScript**: For building a responsive and interactive frontend.
 - **Jupyter Notebooks**: For developing and testing machine learning algorithms.
 
 ---
@@ -80,17 +76,8 @@ We welcome contributions to this project! If you have suggestions, improvements,
 
 ---
 
-## 🧑‍💻 **Future Enhancements**
-
-- 🔄 **AI Training:** Continually improve AI suggestions with more data.
-- 🎨 **New Features:** Add new design templates and customization options.
-- 📱 **Mobile App:** Build a mobile version of the platform for on-the-go design.
-
----
-
 ## 👨‍💻 **Contact**
 
 If you have any questions or want to collaborate, feel free to reach out!
 
-- 📧 Email: [your-email@example.com]
-- 🌍 Website: [your-website.com]
+- 📧 Email: [aojharaj2004@gmail.com]
